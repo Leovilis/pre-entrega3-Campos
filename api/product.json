@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Purma",
+        "tipo": "Malbec",
+        "precio": 1300,
+        "img": "../images/purma.jpg"
+  },
+  {
+        "id": 2,
+        "nombre": "Tilcara",
+        "tipo": "Cabernet",
+        "precio": 1500,
+        "img": "../images/tilcara.jpg"
+  },
+  {
+        "id": 3,
+        "nombre": "Maimara",
+        "tipo": "Cabernet-Malbec",
+        "precio": 1800,
+        "img": "../images/maimara.jpg"
+  } 
+]
